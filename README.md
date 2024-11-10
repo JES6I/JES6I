@@ -17,7 +17,15 @@ const sourav = new Character('Adhi', 17, 'Node.js');
 console.log(adhzx.bio());
 console.log(`My interests include: ${adhzx.interests.join(', ')}.`);
 ```
-- Connect With Me: [Email](mailto:adhi.ae8x@gmail.com), [WhatsApp](https://wa.me/919074793563)
+
+- <p align="center"> 
+  <img src="https://i.ibb.co/WB0pDzL/skull-sorcerer.jpg" width="300"   
+
+
+
+
+
+
 
 
 
