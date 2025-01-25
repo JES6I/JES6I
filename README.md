@@ -2,13 +2,13 @@
 
 ```javascript
 function Character(name, age, hobby) {
-  this.name = name;
-  this.age = age;
-  this.hobby = hobby;
+  this.name = Adhi;
+  this.age = 17;
+  this.hobby = Dev;
 }
 
 Character.prototype.bio = function() {
-  return `Hi there, I'm ${this.name}, a ${this.age}-year-old love with ${this.systeme}!`;
+  return `Hi there, I'm ${this.adhi}, a ${this.17}-year-old love with ${kali-linux}!`;
 }
 
 Character.prototype.interests = ['Programming', 'Ethical Hacking', 'IT', 'Artifical Intelligence"];
