@@ -3,17 +3,17 @@
 ```javascript
 function Character(name, age, hobby) {
   this.name = Adhi;
-  this.age = 17;
+  this.age = 18;
   this.hobby = Dev;
 }
 
 Character.prototype.bio = function() {
-  return `Hi there, I'm ${this.adhi}, a ${this.17}-year-old love with ${kali-linux}!`;
+  return `Hi there, I'm ${this.adhi}, a ${this.18}-year-old love with ${kali-linux}!`;
 }
 
 Character.prototype.interests = ['Programming', 'Ethical Hacking', 'IT', 'Artifical Intelligence"];
 
-const sourav = new Character('Adhi', 17, 'Node.js');
+const sourav = new Character('Adhi', 18, 'Node.js');
 console.log(adhzx.bio());
 console.log(`My interests include: ${adhzx.interests.join(', ')}.`);
 ```
